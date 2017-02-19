@@ -1,0 +1,23 @@
+{
+  "name": "web_template",
+  "version": "1.0.0",
+  "description": "Just a default package of components that I use whenever making a website. Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianpokorski/web_template.git"
+  },
+  "author": "Damian Pokorski <damianpokorski@hotmail.com> (http://damianpokorski.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damianpokorski/web_template/issues"
+  },
+  "homepage": "https://github.com/damianpokorski/web_template#readme",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "express": "^4.14.1"
+  }
+}

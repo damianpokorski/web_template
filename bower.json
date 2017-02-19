@@ -1,0 +1,26 @@
+{
+  "name": "web_template",
+  "description": "Just a default package of components that I use whenever making a website. Edit",
+  "main": "index.js",
+  "authors": [
+    "Damian Pokorski <damianpokorski@hotmail.com> (http://damianpokorski.com)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/damianpokorski/web_template",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "p5": "https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.7/p5.js",
+    "p5.dom": "https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.7/addons/p5.dom.js",
+    "animate": "https://raw.github.com/daneden/animate.css/master/animate.css",
+    "vue.min": "https://vuejs.org/js/vue.min.js"
+  }
+}
