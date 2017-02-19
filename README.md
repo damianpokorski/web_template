@@ -5,8 +5,8 @@ Initial package set up:
  -  Installs following node packages:
     - Bower
     - Express
-
-  - Install following bower packages 
+    
+- Install following bower packages 
     - Bootstrap
     - jQuery
     - p5 & p5.dom
